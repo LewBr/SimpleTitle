@@ -2,7 +2,7 @@
 Plugin [Título] do software para PocketMine-MP (pmmp)
 
 -------------
-[Obtenha os últimos artefatos do LewBr-Titulo (arquivo PHAR) aqui]()
+[Obtenha os últimos artefatos do LewBr-Titulo (arquivo PHAR) aqui](https://github.com/LewBr/LewBr-Titulo/releases)
 -------------
 
 ### Como usar?
@@ -25,7 +25,7 @@ Plugin [Título] do software para PocketMine-MP (pmmp)
 
 | Versão  | Download (PHAR) | Download (ZIP) |
 | ------- | --------------- | -------------- |
-| 1.0.0   | não adicionado  | não adicionado |
+| 1.0.0   | [aqui](https://github.com/LewBr/LewBr-Titulo/releases)  | [aqui](https://github.com/LewBr/LewBr-Titulo/releases) |
 
 <br>
 
