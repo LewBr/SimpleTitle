@@ -2,9 +2,6 @@
 namespace lewbr\tarefas;
 
 use pocketmine\utils\Config;
-use pocketmine\utils\TextFormat as C;
-use pocketmine\event\player\PlayerJoinEvent;
-use pocketmine\event\Listener;
 use pocketmine\scheduler\PluginTask;
 use pocketmine\Player;
 
