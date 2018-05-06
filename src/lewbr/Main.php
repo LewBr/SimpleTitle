@@ -19,14 +19,14 @@ class Main extends PluginBase{
         @mkdir($this->getDataFolder());
 		$this->saveDefaultConfig();
         	$this->config = new Config($this->getDataFolder() . "/config.yml", Config::YAML);
-        	$this->getLogger()->info("[Título] Ativado! :)");
+        	$this->getLogger()->info(C::YELLOW."[Título] Ativado! :)");
 		
     }
 	
     public function onDisable()
     {
 		
-        $this->getLogger()->info("[Título] Desconectado! :(");
+        $this->getLogger()->info(C::RED."[Título] Desconectado! :(");
 		
     }
 	
