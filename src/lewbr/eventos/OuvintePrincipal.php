@@ -3,7 +3,6 @@
 namespace lewbr\eventos;
 
 use pocketmine\utils\Config;
-use pocketmine\utils\TextFormat as C;
 use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\Listener;
 
