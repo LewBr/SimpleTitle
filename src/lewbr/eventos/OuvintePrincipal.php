@@ -18,7 +18,7 @@ class OuvintePrincipal implements Listener
 
         $this->plugin = $plugin;
 
-    }
+   	}
 	
 	public function entrar(PlayerJoinEvent $evento)
 	{
