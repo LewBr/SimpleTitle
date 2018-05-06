@@ -1,4 +1,4 @@
-# LewBr-Titulo<img src="https://github.com/LewBr/LewBr-Titulo/blob/98a052700e40c5ea05809838b96409f893780717/icon.png" height="100" width="100" align="left"></img>
+# LewBr-Titulo<img src="https://github.com/LewBr/LewBr-Titulo/blob/98a052700e40c5ea05809838b96409f893780717/icon.png" height="100" width="200" align="left"></img>
 Plugin [Título] do software para PocketMine-MP (pmmp)
 
 -------------
