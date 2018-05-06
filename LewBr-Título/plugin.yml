@@ -1,4 +1,0 @@
-name: Titulo
-version: 1.0.0
-api: [3.0.0-ALPHA9, 3.0.0-ALPHA11]
-main: lewbr\Main
