@@ -32,7 +32,7 @@ Plugin [Título] do software para PocketMine-MP (pmmp)
 - **Outros lançamentos de versões [aqui](https://github.com/LewBr/LewBr-Titulo/releases)**
 
 ## Sobre
-- Feito por LewBr (Leonardo S. William)
+- Feito por LewBr (Leonardo Santos Jacyntho)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
