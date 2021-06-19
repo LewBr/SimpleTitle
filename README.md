@@ -1,3 +1,4 @@
+<details><summary>pt_BR (Portuguese) (click to expand)</summary><p>
 # LewBr-Titulo<img src="https://github.com/LewBr/LewBr-Titulo/blob/98a052700e40c5ea05809838b96409f893780717/icon.png" height="100" width="200" align="left"></img>
 Plugin [Título] do software para PocketMine-MP (pmmp)
 
@@ -36,3 +37,5 @@ Plugin [Título] do software para PocketMine-MP (pmmp)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
+</p></details>
+<br>
