@@ -3,7 +3,7 @@ namespace simpletitle;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
-use simpletitle\events\EventListener;
+use simpletitle\event\EventListener;
 
 class Main extends PluginBase{
 	
