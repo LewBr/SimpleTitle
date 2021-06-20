@@ -1,24 +1,26 @@
 ---
-# Arquivo de configuração principal para o plugin [Título] do software para PocketMine-MP
-# Criado oficialmente por @LewBr, http://twitter.com/lew_br/
+# Main configuration file for plugin [SimpleTitle] for PocketMine-MP (PMMP) software
+# Made by @LewBr (Leonardo Santos Jacyntho)
 
-#Abreviações básicas do plugin para obter uma função ou algo relacionado ao plugin:
-#1. {jogador} - retorna o nome do jogador que entrou no servidor relacionado;
-#2. & - utilizado muitas vezes em alguns dos meus plugins, seria uma "tradução" do §, assim poderia não haver erros na salvação do arquivo relacionados a caracteres especiais UTF. 
+#Basic plugin abbreviations to get a function or something related to the plugin:
+#1. {player} - returns the name of the player who entered the related server;
+#2. & - used a few times in some of my plugins, it would be a "translation" of the § symbol, so there may be no errors in saving the file.
 
-configuracoes:
- simbolo_cor: "&"
+#Not recommended to delete this part, otherwise the plugin will not work properly.
+configurations:
+ #Symbol to be used to change the color of the text by default as stated earlier would be § but can be changed by your preference in this plugin
+ symbol_color: "&"
 
- #Alteração do texto principal (maior)
- #Exemplo:
- #titulo_principal: "&6Seja bem-vindo {jogador}"
- titulo_principal: "texto_1"
+ #Change of the first text (major)
+ #Exemple:
+ #first_title: "&6Hello {player}" code hex &6 in the case would be gold color
+ first_title: "text_1"
 
- #Alteração do texto abaixo (menor)
- #Exemplo:
- #titulo_abaixo: "&7{jogador} você é especial para todos nós! :)"
- titulo_abaixo: "texto_2"
+ #Change of the second text (minor)
+ #Exemple:
+ #second_title: "&7Welcome!"
+ second_title: "text_2"
 
- #Tempo em que a mensagem ficará na tela do jogador, calculado por segundos (padrão: 5 segundos)
- tempo: 5
+ #Time the message will be on the player's screen, calculated in milliseconds (default: 100 milliseconds)
+ time: 100
 ...
