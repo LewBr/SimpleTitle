@@ -1,4 +1,5 @@
 <details><summary>en_US (English) (click to expand)</summary>
+
 # SimpleTitle Plugin
 <img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200" align="left"></img>
 Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
@@ -26,9 +27,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 | Version  | Download (PHAR) | Download (ZIP) |
 | ------- | --------------- | -------------- |
 | 1.0.0   | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)  | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases) |
-
 <br>
-
 - **Other version release [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)**
 
 ## About
