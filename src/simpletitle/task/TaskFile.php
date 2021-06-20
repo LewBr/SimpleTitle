@@ -12,7 +12,6 @@ class TaskFile extends Task{
 	public Player $player;
 	
 	public function __construct(Main $plugin, Player $player){
-		parent::__construct($plugin, $player);
 		$this->plugin = $plugin;
 		$this->player = $player;
 	}
