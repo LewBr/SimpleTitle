@@ -9,7 +9,7 @@ use simpletitle\Main;
 use simpletitle\task\TaskFile;
 
 class EventListener implements Listener{
-	public function __construct($plugin){
+	public function __construct(Main $plugin){
 		$this->plugin = $plugin;
    	}
 	
