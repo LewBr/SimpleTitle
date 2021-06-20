@@ -24,9 +24,9 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 
 - **Stable Releases:**
 
-| Version  | Download (PHAR) | Download (ZIP) |
-| ------- | --------------- | -------------- |
-| 1.0.0   | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases/download/1.0.0/SimpleTitle_v1.0.0.phar)  | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/archive/refs/tags/1.0.0.zip) |
+| Version  | Download (PHAR) | Download (ZIP) | Download (GZIP)|
+| ------- | --------------- | -------------- | -------------- |
+| 1.0.0   | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases/download/1.0.0/SimpleTitle_v1.0.0.phar)  | [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/archive/refs/tags/1.0.0.zip) |  [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/archive/refs/tags/1.0.0.tar.gz) |
 
 - **Other version release [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)**
 
@@ -62,13 +62,13 @@ Plugin [SimpleTitle] para o software PocketMine-MP (PMMP)
 
 - **Construções Estáveis:**
 
-| Versão  | Download (PHAR) | Download (ZIP) | Download (TAR.GZ)|
+| Versão  | Download (PHAR) | Download (ZIP) | Download (GZIP)|
 | ------- | --------------- | -------------- | -------------- |
 | 1.0.0   | [aqui](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases/download/1.0.0/SimpleTitle_v1.0.0.phar)  | [aqui](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/archive/refs/tags/1.0.0.zip) |  [aqui](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/archive/refs/tags/1.0.0.tar.gz) |
 
 <br>
 
-- **Outrs lançamento de versão [aqui](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)**
+- **Outro lançamento de versão [aqui](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)**
 
 ## Sobre
 - Feito por LewBr (Leonardo Santos Jacyntho)
