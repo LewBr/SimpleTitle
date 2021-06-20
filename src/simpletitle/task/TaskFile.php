@@ -2,12 +2,12 @@
 namespace simpletitle\task;
 
 use pocketmine\utils\Config;
-use pocketmine\scheduler\PluginTask;
+use pocketmine\scheduler\Task;
 use pocketmine\Player;
 
 use simpletitle\Main;
 
-class TaskFile extends PluginTask{
+class TaskFile extends Task{
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
 		$this->plugin = $plugin;
