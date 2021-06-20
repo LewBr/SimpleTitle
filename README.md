@@ -19,6 +19,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 ### Tasks:
 - [x] Add rack preference settings
 - [x] Add text time remain, preferred in config
+- [ ] Improve translation
 
 ### Releases:
 
@@ -57,6 +58,7 @@ Plugin [SimpleTitle] para o software PocketMine-MP (PMMP)
 ### Tarefas:
 - [x] Adicionar configurações de preferência do propetário
 - [x] Adicionar tempo do texto permanecer, preferêncial no config
+- [ ] Melhorar tradução
 
 ### Lançamentos:
 
