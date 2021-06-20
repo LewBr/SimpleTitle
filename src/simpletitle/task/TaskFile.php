@@ -8,8 +8,7 @@ use pocketmine\Player;
 use simpletitle\Main;
 
 class TaskFile extends Task{
-	public $plugin;
-    	public $player;
+	public Main $plugin;
 	
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
@@ -19,8 +18,8 @@ class TaskFile extends Task{
 	
 	public function onRun(int $CurrentTick){
 		$player_variable = $this->player;
-		$plugin = $this->plugin;
-		$values = array_values($plugin->config->get("configurations"));
+		$plugin0 = $this->plugin;
+		$values = array_values($plugin0->config->get("configurations"));
 		
         	$title_0 = $values[1];
         	$title_0 = str_replace("{player}", $player_variable->getName(), $title_0);
