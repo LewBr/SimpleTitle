@@ -3,7 +3,6 @@ namespace simpletitle\event;
 
 use pocketmine\utils\Config;
 use pocketmine\event\player\PlayerJoinEvent;
-use pocketmine\scheduler\PluginTask;
 use pocketmine\event\Listener;
 
 use simpletitle\Main;
