@@ -7,7 +7,7 @@ use simpletitle\events\EventListener;
 
 class Main extends PluginBase{
 	
-	public $config;
+    public $config;
 	
     public function onEnable(){
 	$this->getServer()->getPluginManager()->registerEvents(new EventListener($this), $this);
