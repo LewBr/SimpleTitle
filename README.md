@@ -1,5 +1,4 @@
-<details><summary>en_US (English) (click to expand)</summary><p>
-
+<details><summary>en_US (English) (click to expand)</summary>
 # SimpleTitle Plugin
 <img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200" align="left"></img>
 Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
@@ -37,7 +36,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com or leonardosantu@gmail.com or minethex@gmail.com
 - Twitter - http://twitter.com/Lew_Br	
-</p></details>	
+</details>	
 <details><summary>pt_BR (Portuguese) (click to expand)</summary><p>
 # LewBr-Titulo<img src="https://github.com/LewBr/LewBr-Titulo/blob/98a052700e40c5ea05809838b96409f893780717/icon.png" height="100" width="200" align="left"></img>
 Plugin [Título] do software para PocketMine-MP (pmmp)
