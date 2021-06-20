@@ -36,7 +36,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 - Email - leonardosantow@gmail.com or leonardosantu@gmail.com or minethex@gmail.com
 - Twitter - http://twitter.com/Lew_Br	
 </p></details>	
-<details><summary>pt_BR (Portuguese) (click to expand)</summary><p>
+<details><summary>pt_BR (Portuguese) (clique para expandir)</summary><p>
 
 # SimpleTitle Plugin
 <img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200" align="left"></img>
