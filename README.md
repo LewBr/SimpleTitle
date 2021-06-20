@@ -1,5 +1,6 @@
 <details><summary>en_US (English) (click to expand)</summary><p>
-## SimpleTitle Plugin
+
+# SimpleTitle Plugin
 <img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200" align="left"></img>
 Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 
