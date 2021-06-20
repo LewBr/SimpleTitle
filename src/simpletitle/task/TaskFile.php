@@ -8,10 +8,13 @@ use pocketmine\Player;
 use simpletitle\Main;
 
 class TaskFile extends Task{
+	public $plugin;
+    	public $player;
+	
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
-		$this->plugin = Main::getInstance();
-		$this->player = Server::getInstance()->getPlayer($player);
+		$this->plugin = $plugin;
+		$this->player = $player;
 	}
 	
 	public function onRun(int $CurrentTick){
