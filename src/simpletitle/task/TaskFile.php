@@ -25,9 +25,9 @@ class TaskFile extends Task{
         	$title_0 = str_replace("{player}", $player_variable->getName(), $title_0);
 		$title_0 = str_replace($values[0], "§", $title_0);
 		
-        	$titulo_1 = $values[2];
-        	$titulo_1 = str_replace("{player}", $player_variable->getName(), $title_1);
-		$titulo_1 = str_replace($values[0], "§", $title_1);
+        	$title_1 = $values[2];
+        	$title_1 = str_replace("{player}", $player_variable->getName(), $title_1);
+		$title_1 = str_replace($values[0], "§", $title_1);
         
         	$player_variable->addTitle($title_0, $title_1);
 	}
