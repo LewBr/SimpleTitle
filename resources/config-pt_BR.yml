@@ -1,0 +1,26 @@
+---
+# Arquivo de configuração principal para o plugin [SimpleTitle] para o software PocketMine-MP (PMMP)
+# Feito por @LewBr (Leonardo Santos Jacyntho)
+
+#Abreviações básicas do plugin para obter uma função ou algo relacionado ao plugin:
+#1. {player} - retorna o nome do jogador que entrou no servidor relacionado;
+#2. & - utilizado algumas vezes em alguns dos meus plugins, seria uma "tradução" do símbolo §, assim talvez não haver erros na salvação do arquivo. 
+
+#Não recomendado excluir essa parte, caso contrário o plugin terá mal funcionamento.
+configurations:
+ #Símbolo a ser utilizado para alterar a cor do texto, por padrão como dito anteriormente seria § mas pode ser alterado por sua preferência nesse plugin
+ symbol_color: "&"
+
+ #Alteração do primeiro texto (maior)
+ #Exemplo:
+ #first_title: "&6Olá {player}" código hex &6 no caso seria em cor laranja ou ouro precisamente traduzido
+ first_title: "text_1"
+
+ #Alteração do segundo texto (menor)
+ #Exemplo:
+ #second_title: "&7seja bem-vindo!"
+ second_title: "text_2"
+
+ #Tempo em que a mensagem ficará na tela do jogador, calculado em milisegundos (padrão: 100 milisegundos)
+ time: 100
+...
