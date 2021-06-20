@@ -37,6 +37,8 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 - Email - leonardosantow@gmail.com or leonardosantu@gmail.com or minethex@gmail.com
 - Twitter - http://twitter.com/Lew_Br	
 </p></details>	
+<details><summary>zh_TW (Mandarin Chinese) (單擊以擴展)</summary><p>
+</p></details>	
 <details><summary>pt_BR (Portuguese) (clique para expandir)</summary><p>
 
 # SimpleTitle Plugin
