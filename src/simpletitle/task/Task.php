@@ -7,7 +7,7 @@ use pocketmine\Player;
 
 use simpletitle\Main;
 
-class EventListener extends PluginTask{
+class Task extends PluginTask{
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
 		$this->plugin = $plugin;
