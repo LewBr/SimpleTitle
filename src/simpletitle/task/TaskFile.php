@@ -9,6 +9,7 @@ use simpletitle\Main;
 
 class TaskFile extends Task{
 	public Main $plugin;
+	public Player $player;
 	
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
