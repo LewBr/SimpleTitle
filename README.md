@@ -1,14 +1,14 @@
 <details><summary>en_US (English) (click to expand)</summary>
 
 # SimpleTitle Plugin
-<img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200"></img>
+<img src="https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/blob/master/icon.png" height="100" width="200" align="left"></img>
 Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 
 -------------
 [Get the latest artefacts file here (PHAR Files)](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)
 -------------
 
-# How to use?
+### How to use?
 1) Install the file .phar last artefact
 2) Restart your server if the plugin doesn't work
 3) Change the plugin configurations as your preferences in config.yml
@@ -30,7 +30,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 <br>
 - **Other version release [here](https://github.com/LewBr/SimpleTitle_Plugin_By_LewBr/releases)**
 
-## About
+### About
 - Created by LewBr (Leonardo Santos Jacyntho)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com or leonardosantu@gmail.com or minethex@gmail.com
