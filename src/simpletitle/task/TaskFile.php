@@ -19,8 +19,8 @@ class TaskFile extends Task{
 	
 	public function onRun(int $CurrentTick){
 		$player_variable = $this->player;
-		$plugin0 = $this->plugin;
-		$values = array_values($plugin0->config->get("configurations"));
+		$plugin = $this->plugin;
+		$values = array_values($plugin->config->get("configurations"));
 		
         	$title_0 = $values[1];
         	$title_0 = str_replace("{player}", $player_variable->getName(), $title_0);
