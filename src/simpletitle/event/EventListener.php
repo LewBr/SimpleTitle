@@ -20,6 +20,6 @@ class EventListener implements Listener{
 		$player = $event->getPlayer();
 		$values = array_values($this->plugin->config->get("configurations"));
 		
-		$this->plugin->getServer()->getScheduler()->scheduleDelayedTask(new TaskFile($this->plugin, $player), (int)$values[3]);
+		$this->plugin->getScheduler()->scheduleDelayedTask(new TaskFile($this->plugin, $player), (int)$values[3]);
 	}  
 }
