@@ -10,8 +10,8 @@ use simpletitle\Main;
 class TaskFile extends Task{
 	public function __construct(Main $plugin, Player $player){
 		parent::__construct($plugin, $player);
-		$this->plugin = $plugin;
-		$this->player = $player;
+		$this->plugin = Main::getInstance();
+		$this->player = Server::getInstance()->getPlayer($player);
 	}
 	
 	public function onRun(int $CurrentTick){
