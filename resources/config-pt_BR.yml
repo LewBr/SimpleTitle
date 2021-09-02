@@ -1,6 +1,6 @@
 ---
 # Arquivo de configuração principal para o plugin [SimpleTitle] para o software PocketMine-MP (PMMP)
-# Feito por @LewBr (Leonardo Santos Jacyntho)
+# Feito por @LewBr (Leonardo Santos)
 
 #Abreviações básicas do plugin para obter uma função ou algo relacionado ao plugin:
 #1. {player} - retorna o nome do jogador que entrou no servidor relacionado;
