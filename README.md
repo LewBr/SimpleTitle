@@ -32,7 +32,7 @@ Plugin [SimpleTitle] for PocketMine-MP software (PMMP)
 - **Other version release [here](https://github.com/LewBr/SimpleTitle/releases)**
 
 ### About
-- Made by LewBr (Leonardo Santos Jacyntho)
+- Made by LewBr (Leonardo Santos)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com or leonardosantu@gmail.com or minethex@gmail.com
 - Twitter - http://twitter.com/Lew_Br	
@@ -75,7 +75,7 @@ Plugin [SimpleTitle] para o software PocketMine-MP (PMMP)
 - **Outro lançamento de versão [aqui](https://github.com/LewBr/SimpleTitle/releases)**
 
 ## Sobre
-- Feito por LewBr (Leonardo Santos Jacyntho)
+- Feito por LewBr (Leonardo Santos)
 - Github - http://github.com/LewBr
 - Email - leonardosantow@gmail.com
 - Twitter - http://twitter.com/Lew_Br
